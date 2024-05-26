@@ -1,10 +1,5 @@
 const App = () => {
-  return <div>Hello world! This is the testing being carried over Macbook air
-
-    <h1 style={{ backgroundColor: "red" }}>This is again being done for testing purpose</h1>
-    
-
-  </div>;
+  return <div>Hello world!</div>
 };
 
 export default App;  
